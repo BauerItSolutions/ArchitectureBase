@@ -1,5 +1,0 @@
-C:\Projects\Base\ArchitectureBase\ArchitectureBase.Application\bin\Debug\ArchitectureBase.Application.dll
-C:\Projects\Base\ArchitectureBase\ArchitectureBase.Application\bin\Debug\ArchitectureBase.Application.pdb
-C:\Projects\Base\ArchitectureBase\ArchitectureBase.Application\obj\Debug\ArchitectureBase.Application.csprojResolveAssemblyReference.cache
-C:\Projects\Base\ArchitectureBase\ArchitectureBase.Application\obj\Debug\ArchitectureBase.Application.dll
-C:\Projects\Base\ArchitectureBase\ArchitectureBase.Application\obj\Debug\ArchitectureBase.Application.pdb
