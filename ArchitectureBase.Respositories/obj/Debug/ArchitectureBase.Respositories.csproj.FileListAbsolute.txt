@@ -2,3 +2,4 @@ C:\Projects\Base\ArchitectureBase\ArchitectureBase.Respositories\bin\Debug\Archi
 C:\Projects\Base\ArchitectureBase\ArchitectureBase.Respositories\bin\Debug\ArchitectureBase.Respositories.pdb
 C:\Projects\Base\ArchitectureBase\ArchitectureBase.Respositories\obj\Debug\ArchitectureBase.Respositories.dll
 C:\Projects\Base\ArchitectureBase\ArchitectureBase.Respositories\obj\Debug\ArchitectureBase.Respositories.pdb
+C:\Projects\Base\ArchitectureBase\ArchitectureBase.Respositories\obj\Debug\ArchitectureBase.Respositories.csprojResolveAssemblyReference.cache
