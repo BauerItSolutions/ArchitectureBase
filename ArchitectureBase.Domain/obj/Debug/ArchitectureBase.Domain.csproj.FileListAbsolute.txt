@@ -1,0 +1,4 @@
+C:\Projects\Base\ArchitectureBase\ArchitectureBase.Domain\bin\Debug\ArchitectureBase.Domain.dll
+C:\Projects\Base\ArchitectureBase\ArchitectureBase.Domain\bin\Debug\ArchitectureBase.Domain.pdb
+C:\Projects\Base\ArchitectureBase\ArchitectureBase.Domain\obj\Debug\ArchitectureBase.Domain.dll
+C:\Projects\Base\ArchitectureBase\ArchitectureBase.Domain\obj\Debug\ArchitectureBase.Domain.pdb

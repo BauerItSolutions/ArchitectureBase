@@ -1,0 +1,6 @@
+C:\Projects\Base\ArchitectureBase\Console.Test\bin\Debug\Console.Test.exe.config
+C:\Projects\Base\ArchitectureBase\Console.Test\bin\Debug\Console.Test.exe
+C:\Projects\Base\ArchitectureBase\Console.Test\bin\Debug\Console.Test.pdb
+C:\Projects\Base\ArchitectureBase\Console.Test\obj\Debug\Console.Test.csprojResolveAssemblyReference.cache
+C:\Projects\Base\ArchitectureBase\Console.Test\obj\Debug\Console.Test.exe
+C:\Projects\Base\ArchitectureBase\Console.Test\obj\Debug\Console.Test.pdb
